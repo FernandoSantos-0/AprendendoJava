@@ -28,5 +28,7 @@ public class ExercicioFixacao02 {
         System.out.printf("TRAPEZIO: %.2f%n",((A+B)*C)/2);
         System.out.printf("QUADRADO: %.2f%n",quadrado);
         System.out.printf("RETANGULO: %.2f%n",(A*B));
+
+        sc.close();
     }
 }
