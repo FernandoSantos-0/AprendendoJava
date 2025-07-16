@@ -32,4 +32,13 @@ public class Client {
             return this.accountBalance = (this.accountBalance - accountBalance) - 5;
         }
     }
+
+    public String toString(){
+        return "Nome: "
+                +getNameAccount()+
+                " | Numero: "
+                +getNumberAccount()+
+                " | Valor: "
+                +getAccountBalance();
+    }
 }

@@ -18,7 +18,7 @@ public class Main {
 
         Client client = new Client(nameaccount,numberAccount);
 
-        System.out.println("Nome: "+client.getNameAccount()+" | Numero: "+client.getNumberAccount()+ " | Valor: "+client.getAccountBalance());
+        System.out.println(client);
 
         System.out.println("Tem interesse em um deposito inicial?[s/n]");
         String isInitialDepositAgreed = sc.nextLine();
@@ -47,7 +47,7 @@ public class Main {
                     System.out.println("OK!");
                 }
         System.out.println("Informações da conta: ");
-        System.out.println("Nome: "+client.getNameAccount()+" | Numero: "+client.getNumberAccount()+ " | Valor: "+client.getAccountBalance());
+        System.out.println(client);
 
         sc.close();
     }
