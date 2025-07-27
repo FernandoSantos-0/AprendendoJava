@@ -1,14 +1,14 @@
 package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
 
-public class ClassC extends ClassA{
+public class SavingsAccount extends Account{
 
     private Double interestRate;
 
-    public ClassC(){
+    public SavingsAccount(){
         super();
     }
 
-    public ClassC(Integer number, String holder, Double balance, Double interestRate) {
+    public SavingsAccount(Integer number, String holder, Double balance, Double interestRate) {
         super(number, holder, balance);
         this.interestRate = interestRate;
     }

@@ -1,15 +1,15 @@
 package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
 
-public class ClassA {
+public class Account {
 
     private Integer number;
     private String holder;
     protected Double balance;
 
-    public ClassA(){
+    public Account(){
     }
 
-    public ClassA(Integer number, String holder, Double balance) {
+    public Account(Integer number, String holder, Double balance) {
         this.number = number;
         this.holder = holder;
         this.balance = balance;

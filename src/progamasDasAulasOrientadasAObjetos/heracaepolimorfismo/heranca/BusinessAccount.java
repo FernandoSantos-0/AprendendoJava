@@ -1,14 +1,14 @@
 package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
 
-public class ClassB extends ClassA{
+public class BusinessAccount extends Account{
 
     private Double loanLimit;
 
-    public ClassB(){
+    public BusinessAccount(){
         super();
     }
 
-    public ClassB(Integer number, String holder, Double balance, Double loanLimit) {
+    public BusinessAccount(Integer number, String holder, Double balance, Double loanLimit) {
         super(number, holder, balance);
         this.loanLimit = loanLimit;
     }
