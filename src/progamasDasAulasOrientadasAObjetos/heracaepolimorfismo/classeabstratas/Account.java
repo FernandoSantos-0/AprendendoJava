@@ -1,6 +1,8 @@
-package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
+package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.classeabstratas;
 
-public class Account {
+// Com o abstract não e possivel instanciar esses objetos so os que o herdam, nesse caso essa class é considerada generica.
+
+public abstract class Account {
 
     private Integer number;
     private String holder;

@@ -1,4 +1,4 @@
-package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
+package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.polimorfismo.entities;
 
 public class Account {
 
@@ -42,7 +42,5 @@ public class Account {
     public void deposit(Double number){
         this.balance += number;
     }
-
-
 
 }

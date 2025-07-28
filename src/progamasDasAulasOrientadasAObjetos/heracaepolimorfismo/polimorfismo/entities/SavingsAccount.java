@@ -1,8 +1,8 @@
-package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
+package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.polimorfismo.entities;
 
 //final impede que a class seja herdada.
 
-public final class SavingsAccount extends Account{
+public final class SavingsAccount extends Account {
 
     private Double interestRate;
 

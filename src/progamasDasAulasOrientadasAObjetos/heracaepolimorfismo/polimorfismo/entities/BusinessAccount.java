@@ -1,6 +1,6 @@
-package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.heranca;
+package progamasDasAulasOrientadasAObjetos.heracaepolimorfismo.polimorfismo.entities;
 
-public class BusinessAccount extends Account{
+public class BusinessAccount extends Account {
 
     private Double loanLimit;
 

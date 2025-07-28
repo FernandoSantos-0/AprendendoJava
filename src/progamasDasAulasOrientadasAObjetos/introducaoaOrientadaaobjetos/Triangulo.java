@@ -1,4 +1,4 @@
-package progamasDasAulasOrientadasAObjetos;
+package progamasDasAulasOrientadasAObjetos.introducaoaOrientadaaobjetos;
 
 public class Triangulo {
 
