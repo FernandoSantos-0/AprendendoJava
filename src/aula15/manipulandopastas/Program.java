@@ -1,4 +1,4 @@
-package aulasecao15.manipulandopastas;
+package aula15.manipulandopastas;
 
 import java.io.File;
 import java.util.Scanner;

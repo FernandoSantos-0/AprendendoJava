@@ -1,4 +1,4 @@
-package aulasecao15.filereaderanbufferedreader;
+package aula15.filereaderanbufferedreader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

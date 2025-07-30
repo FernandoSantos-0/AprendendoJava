@@ -1,4 +1,4 @@
-package aulasecao15.filewriterandbufferedwriter;
+package aula15.filewriterandbufferedwriter;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

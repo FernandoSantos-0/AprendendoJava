@@ -1,4 +1,4 @@
-package aulasecao15.lendoarquivotextoscanner;
+package aula15.lendoarquivotextoscanner;
 
 import java.io.File;
 import java.io.IOException;

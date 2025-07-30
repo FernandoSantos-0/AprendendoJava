@@ -1,4 +1,4 @@
-package aulasecao15.exercicio.entities;
+package aula15.exercicio.entities;
 
 public class Product {
 

@@ -1,4 +1,4 @@
-package aulasecao15.trywithresources;
+package aula15.trywithresources;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

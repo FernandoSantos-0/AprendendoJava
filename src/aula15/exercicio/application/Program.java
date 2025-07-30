@@ -1,6 +1,6 @@
-package aulasecao15.exercicio.application;
+package aula15.exercicio.application;
 
-import aulasecao15.exercicio.entities.Product;
+import aula15.exercicio.entities.Product;
 
 import java.io.*;
 import java.util.ArrayList;

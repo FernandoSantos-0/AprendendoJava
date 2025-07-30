@@ -1,4 +1,4 @@
-package aulasecao15.informacoesdocaminhodoarquivo;
+package aula15.informacoesdocaminhodoarquivo;
 
 import java.io.File;
 import java.util.Scanner;
