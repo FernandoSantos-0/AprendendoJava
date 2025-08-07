@@ -1,4 +1,4 @@
-package aula16.exemplo03diamondproblem.devices;
+package aula16.exemplo03problemadodiamente.devices;
 
 public class ConcreteScanner extends Device implements Scanner {
 

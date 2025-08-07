@@ -1,8 +1,8 @@
-package aula16.exemplo03diamondproblem.application;
+package aula16.exemplo03problemadodiamente.application;
 
-import aula16.exemplo03diamondproblem.devices.ComboDevice;
-import aula16.exemplo03diamondproblem.devices.ConcretePrinter;
-import aula16.exemplo03diamondproblem.devices.ConcreteScanner;
+import aula16.exemplo03problemadodiamente.devices.ComboDevice;
+import aula16.exemplo03problemadodiamente.devices.ConcretePrinter;
+import aula16.exemplo03problemadodiamente.devices.ConcreteScanner;
 
 public class Program {
 
