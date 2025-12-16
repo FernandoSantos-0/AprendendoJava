@@ -25,4 +25,13 @@ public class Entrega {
             }
         }
     }
+    public Pacote analisarPacote(String id) {
+        for (int i = 0; i < TotalMaximoDeEntregas; i++) {
+            if (pacote[i] != null && pacote[i].getId().equalsIgnoreCase(id)) {
+                return pacote[i];
+            }
+        }
+        return null;
+    }
+
 }
