@@ -27,15 +27,8 @@ public class Mensalidade {
         return dataDeVencimento;
     }
 
-    public void setDataDeVencimento(String dataDeVencimento) {
-        this.dataDeVencimento = dataDeVencimento;
-    }
-
     public String getStatusDoPagamento() {
         return statusDoPagamento;
     }
 
-    public void setStatusDoPagamento(String statusDoPagamento) {
-        this.statusDoPagamento = statusDoPagamento;
-    }
 }

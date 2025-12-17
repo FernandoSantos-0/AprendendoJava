@@ -12,8 +12,6 @@ public class Instrutor {
         this.cref = cpf;
         this.numero = numero;
     }
-    public Instrutor() {
-    }
 
     public String getName() {
         return name;
@@ -25,10 +23,6 @@ public class Instrutor {
 
     public String getCpf() {
         return cref;
-    }
-
-    public void setCpf(String cref) {
-        this.cref = cref;
     }
 
     public int getNumero() {
