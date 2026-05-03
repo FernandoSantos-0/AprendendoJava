@@ -1,0 +1,32 @@
+3. Explique o conceito de polimorfismo e exemplifique como ele pode ser
+implementado.
+
+    Polimorfismo é quando um método pode agir de formas diferentes dependendo do objeto.
+
+    Exemplo de uso:
+
+    class Animal {
+        void som() {
+            System.out.println("Som genérico");
+        }
+    }
+
+    class Cachorro extends Animal {
+        void som() {
+            System.out.println("Latido");
+        }
+    }
+
+    class Gato extends Animal {
+        void som() {
+            System.out.println("Miau");
+        }
+    }
+
+    Uso no Main:
+
+    Animal a1 = new Cachorro();
+    Animal a2 = new Gato();
+
+    a1.som();
+    a2.som();

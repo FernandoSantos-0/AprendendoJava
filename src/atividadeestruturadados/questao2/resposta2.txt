@@ -1,0 +1,9 @@
+2. Descreva a diferença entre composição e herança. Quando você usaria
+uma em vez da outra?
+
+    Composição ocorre quando uma classe possui outra classe como atributo, ou seja, um objeto é
+    criado dentro de outro. Já a herança acontece quando uma classe herda atributos e métodos de
+    outra classe diretamente.
+
+    Usa-se herança quando existe uma relação de "é um", por exemplo: um cachorro é um animal.
+    Já a composição é utilizada quando há uma relação de "tem um", por exemplo: um carro tem um motor.

@@ -1,0 +1,23 @@
+1. Explique os seguintes conceitos da Orientação a Objetos:
+
+    a. Encapsulamento;
+
+        É o ato de proteger os dados de uma classe, permitindo acesso apenas por métodos e não diretamente pelos atributos.
+        Em Java: usamos private + getters e setters.
+        Evitando acesso direto sobre os dados.
+
+    b. Herança;
+
+        quando uma classe herde características de outra.
+
+    c. Polimorfismo;
+
+        Permite que um mesmo método tenha comportamentos diferentes.
+
+    d. Interfaces;
+
+        Define um contrato que as classes devem seguir.
+
+    e. Classes Abstratas;
+
+        São classes que não podem ser instanciadas, servem como base.
